@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SLCUrban]]></title>
+        <description><![CDATA[SLCUrban]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Dec 2015 14:13:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Easy Whole Wheat Bread]]></title>
+            <description><![CDATA[<article><h1>Easy Whole Wheat Bread</h1><p>This is a great recipe that I use regularly. I adapted it from the recipe at The Sisters Cafe Blog. I typically will put this together about every two weeks. I freeze four of the loaves immediately and use them as I need them over the next two weeks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a79f4559b50e1810247d64aa517b8b77cbea7c7c.jpg"></article>]]></description>
+            <link>http://slcurban.com/2015/09/17/easy-whole-wheat-bread/</link>
+            <guid isPermaLink="false">a9e0f82a-5392-4199-bc01-507419d2c7ec</guid>
+            <pubDate>Fri, 11 Dec 2015 14:13:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
