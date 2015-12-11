@@ -1,0 +1,28 @@
+name: SLCUrban
+favicon: null
+layout_spectrum: 0.5544414664618671
+typography_spectrum: 0.2706613326445222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.932085559470579
+  lightness: 0.030493784230202436
+  saturation: 0.34994861390441656
+  rhythmicContrast: 0.5547393257729709
+purpose: []
