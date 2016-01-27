@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[SLCUrban]]></title>
         <description><![CDATA[SLCUrban]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/slcurban/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 14:13:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 17:02:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/slcurban/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Easy Whole Wheat Bread]]></title>
-            <description><![CDATA[<article><h1>Easy Whole Wheat Bread</h1><p>This is a great recipe that I use regularly. I adapted it from the recipe at The Sisters Cafe Blog. I typically will put this together about every two weeks. I freeze four of the loaves immediately and use them as I need them over the next two weeks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a79f4559b50e1810247d64aa517b8b77cbea7c7c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Easy Whole Wheat Bread</h1><p>This is a great recipe that I use regularly. I adapted it from the recipe at The Sisters Cafe Blog. I typically will put this together about every two weeks. I freeze four of the loaves immediately and use them as I need them over the next two weeks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b61c4921ec796b4715b18199178189edda202374.jpg"></article>]]></description>
             <link>http://slcurban.com/2015/09/17/easy-whole-wheat-bread/</link>
             <guid isPermaLink="false">a9e0f82a-5392-4199-bc01-507419d2c7ec</guid>
             <pubDate>Fri, 11 Dec 2015 14:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Beautiful Day in the Kitchen]]></title>
+            <description><![CDATA[<article><h1>A Beautiful Day in the Kitchen</h1><p>A beautiful day in the kitchen</p></article>]]></description>
+            <link>https://thegrid.ai/slcurban/a-beautiful-day-in-the-kitchen/index.html</link>
+            <guid isPermaLink="false">2e1b5bf4-f595-4f19-90bc-64fd21463c57</guid>
+            <pubDate>Wed, 27 Jan 2016 17:02:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
