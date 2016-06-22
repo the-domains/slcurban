@@ -4,7 +4,7 @@
         <description><![CDATA[SLCUrban]]></description>
         <link>https://thegrid.ai/slcurban/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 15:43:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/slcurban/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Easy Whole Wheat Bread]]></title>
@@ -12,13 +12,6 @@
             <link>http://slcurban.com/2015/09/17/easy-whole-wheat-bread/</link>
             <guid isPermaLink="false">a9e0f82a-5392-4199-bc01-507419d2c7ec</guid>
             <pubDate>Fri, 11 Dec 2015 14:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Beautiful Day in the Kitchen]]></title>
-            <description><![CDATA[<article><h1>A Beautiful Day in the Kitchen</h1><p>A beautiful day in the kitchen</p></article>]]></description>
-            <link>https://thegrid.ai/slcurban/a-beautiful-day-in-the-kitchen/index.html</link>
-            <guid isPermaLink="false">2e1b5bf4-f595-4f19-90bc-64fd21463c57</guid>
-            <pubDate>Wed, 27 Jan 2016 17:02:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
